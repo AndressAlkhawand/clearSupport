@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="GUIComponents.TicketCreatorPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TicketCreatorPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="339" width="170" x="577" y="1300"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="GUIComponents.HelpDeskSystem" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/HelpDeskSystem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="411" width="273" x="1410" y="-44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="GUIComponents.SWTicketDisplayPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/SWTicketDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="357" width="317" x="1043" y="1300"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="4" language="java" name="GUIComponents.TicketSearchFilters" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TicketSearchFilters.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="177" width="267" x="210" y="-44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="5" language="java" name="GUIComponents.LogonRole" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/LogonRole.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="105" width="148" x="1760" y="1300"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="6" language="java" name="GUIComponents.HWTicketDisplayPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/HWTicketDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="339" width="320" x="1400" y="1300"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="GUIComponents.TicketBasicInfoPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TicketBasicInfoPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="447" width="216" x="787" y="1300"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="GUIComponents.LogonWindow" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/LogonWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="321" width="285" x="517" y="-44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="GUIComponents.TicketDisplayPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TicketDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="843" width="347" x="739" y="417"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="GUIComponents.TicketSearchPanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TicketSearchPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="339" width="242" x="1147" y="417"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="GUIComponents.UserProfilePanel" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/UserProfilePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="843" width="437" x="1450" y="417"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="GUIComponents.LogonMismatchException" project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/LogonMismatchException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="69" width="275" x="842" y="-44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="GUIComponents.TechnicianNotInSystemException" 
+    project="FinalProject_Andress_Hubert" 
+    file="/FinalProject_Andress_Hubert/src/GUIComponents/TechnicianNotInSystemException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="69" width="213" x="1157" y="-44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="14">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="15" name="helpDesk"/>      
+      <multiplicity id="16" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="17">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="18" name="searchSubmittedTicketsTab"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="21" name="hwTicketDisplayPanel"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="24" name="userProfileTab"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="27" name="empUsingPanelRole"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="30" name="empUsingPanelRole"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <bendpoint x="1116" y="417"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="33" name="swSubmissionTab"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="36" name="swTicketDisplayPanel"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="40">    
+    <bendpoint x="1419" y="417"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="41" name="hwSubmissionTab"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="1917" y="417"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="44" name="logonRole"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="47" name="role"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="50" name="ticketBasicPanel"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="53" name="ticketCreatorPanel"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
